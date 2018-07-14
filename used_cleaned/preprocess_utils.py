@@ -1,5 +1,4 @@
-
-Text = "Text"
+from toxic_comments.used_cleaned.global_variables import Text
 
 class Preprocessor():
 
