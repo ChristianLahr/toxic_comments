@@ -53,6 +53,7 @@ class Model:
 
         ##
         ## hier statt tensorflow --> keras verwenden
+        ## bzw. eher direkt in train_folds?
         ##
 
         pass
